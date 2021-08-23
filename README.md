@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg">
   <img align="center" alt="Rafa-kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="Rafa" src="https://picrew.me/image_maker/338224/complete?cd=D4KnOu72p5">
+  <img align="right" alt="NathSallim" src="https://i.picasion.com/pic91/c1cc6df6155c3362ad879082b1f8c367.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
 </div>
   
 ##
@@ -28,9 +28,7 @@
   <a href ="malito:nathalia141@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathalia-cordeiro-salgado-5b8734140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-     ![Snake animation](https://github.com/NathSallim/NathSallim/blob/output/github-contribution-grid-snake.svg)
-    
-    
+   ![Snake animation](https://github.com/NathSallim/Nathsallim/blob/output/github-contribution-grid-snake.svg)
   </div>
   
  
