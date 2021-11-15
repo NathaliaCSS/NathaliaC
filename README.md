@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg">
   <img align="center" alt="Rafa-kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="NathSallim" src="https://i.picasion.com/pic91/c1cc6df6155c3362ad879082b1f8c367.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"</a>
+  <img align="right" alt="NathSallim" src="https://media.discordapp.net/attachments/909950749042147421/909951208389754910/VID-20211115-WA0063.mp4" width="300" height="300" border="0" alt="https://media.discordapp.net" /></a><br /><a href="https://media.discordapp.net"</a>
 </div>
   
 ##
