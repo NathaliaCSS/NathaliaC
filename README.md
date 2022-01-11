@@ -27,7 +27,7 @@
   <a href = "mailto:nathalia141@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathalia-cordeiro-salgado-5b8734140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/NathaliaCSS/NathaliaCSS/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/NathaliaCSS/NathaliaC/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
