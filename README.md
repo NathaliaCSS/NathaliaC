@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="NathSallim" src="https://i.picasion.com/pic91/c3003d54306ffc8a40fd53e54021818a.gif" width="300" height="300" border="0" alt="https://picasion.com/i/2DNfN" /></a><br /><a href="https://media.discordapp.net"</a>
+  <img align="right" alt="NathSallim" src="https://linksharing.samsungcloud.com/iq4Woq0I1d6b" width="300" height="300" border="0" alt="https://picasion.com/i/2DNfN" /></a><br /><a href="https://linksharing.samsungcloud.com"</a>
 
 </div>
   
